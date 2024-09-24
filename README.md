@@ -23,7 +23,7 @@
 - rag blog （近期的一些rag博客）
 
 - chapter 7
-  - xxx 
+  - 71_72_code（langchain demo） 
 
 - chapter 8
 
